@@ -4,19 +4,44 @@ body {
 }
 
 .nameplate {
-  color: #146C94;
+  color: #526D82;
   font-size: 30px;
   font-family: 'Lato', sans-serif;
-
+  text-align: center;
+  padding-bottom: 30px;
 }
 h2 {
   font-size: 30px;
   color: #19A7CE;
-
+  font-family: 'Lato', sans-serif;
+  text-align: center;
 }
 
 h3 {
   font-size: 20px;
   color: #19A7CE;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
 }
 
+li {
+  font-size: 15px;
+  color: #146C94;
+  font-family: 'Lato', sans-serif;
+   list-style-position: inside;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Lato', sans-sans-serif;
+}
+
+hr  {
+    overflow: visible;
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+    color: #9BA4B5;
+}
