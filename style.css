@@ -31,9 +31,9 @@ li {
    list-style-position: inside;
 }
 
-p {
+p 
   font-size: 20px;
-  font-family: 'Lato', sans-sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 hr  {
